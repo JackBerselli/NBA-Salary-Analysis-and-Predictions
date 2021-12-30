@@ -1,0 +1,541 @@
+PLAYER;POS;HEIGHT;WEIGHT;AGE;TEAM;GP;YOS;COLLEGE;DRAFT;COUNTRY;SALARY
+Precious Achiuwa;SF;6-8;235;21;MIA;61;0;Memphis;2020 Rnd 1 Pick 20;Nigeria;$2,582,160 
+Jaylen Adams;PG;6-0;225;24;MIL;7;1;St. Bonaventure;2018 NBA Draft, Undrafted;United States;$449,115
+Steven Adams;C;6-11;265;27;NOP;58;7;Pittsburgh;2013 Rnd 1 Pick 12;New Zealand;$29,592,695 
+Bam Adebayo;C;6-10;255;23;MIA;64;3;Kentucky;2017 Rnd 1 Pick 14;United States;$5,115,492 
+LaMarcus Aldridge;FC;6-11;265;35;BRK, SAN;26;14;Texas;2006 Rnd 1 Pick 2;United States;$16,750,000
+Ty-Shon Alexander;SG;6-4;195;22;PHX;15;0;Creighton;2020 NBA Draft, Undrafted;United States;$449,115
+Nickeil Alexander-Walker;SG;6-5;205;22;NOP;46;1;Virginia Tech;2019 Rnd 1 Pick 17;Canada;$3,113,160 
+Grayson Allen;SG;6-4;198;25;MEM;50;2;Duke;2018 Rnd 1 Pick 21;United States;$2,545,320 
+Jarrett Allen;C;6-11;248;22;BRK, CLE;63;3;Texas;2017 Rnd 1 Pick 22;United States;$3,909,902 
+Al-Farouq Aminu;F;6-9;220;30;CHI, ORL;23;10;Wake Forest;2010 Rnd 1 Pick 8;United States;$9,720,900 
+Kyle Anderson;PF;6-8;230;27;MEM;69;6;UCLA;2014 Rnd 1 Pick 30;United States;$9,505,100 
+Giannis Antetokounmpo;F;6-11;242;26;MIL;61;7;Other;2013 Rnd 1 Pick 15;Greece;$27,528,088 
+Kostas Antetokounmpo;PF;6-10;200;23;LAL;15;2;Dayton;2018 Rnd 2 Pick 30;Greece;$449,115
+Thanasis Antetokounmpo;SF;6-7;215;28;MIL;57;2;Delaware 87ers;2014 Rnd 2 Pick 21;Greece;$1,701,593 
+Carmelo Anthony;F;6-8;240;36;POR;69;17;Syracuse;2003 Rnd 1 Pick 3;United States;$1,620,564 
+Cole Anthony;PG;6-3;190;20;ORL;47;0;North Carolina;2020 Rnd 1 Pick 15;United States;$3,285,120 
+Ogugua Anunoby;SF;6-8;232;23;TOR;43;3;Indiana;2017 Rnd 1 Pick 23;England;$3,872,215 
+Ryan Arcidiacono;G;6-3;195;26;CHI;44;3;Villanova;2016 NBA Draft, Undrafted;United States;$3,000,000 
+Trevor Ariza;SF;6-8;215;35;MIA;30;16;UCLA;2004 Rnd 2 Pick 14;United States;$12,800,000 
+D.J. Augustin;G;6-0;183;33;HOU, MIL;57;12;Texas;2008 Rnd 1 Pick 9;United States;$6,666,667 
+Deni Avdija;SG;6-9;210;20;WAS;54;0;Other;2020 Rnd 1 Pick 9;Israel;$4,469,160 
+Deandre Ayton;C;7-1;250;22;PHX;69;2;Arizona;2018 Rnd 1 Pick 1;Bahamas;$10,018,200 
+Udoka Azubuike;C;7-0;270;21;UTA;15;0;Kansas;2020 Rnd 1 Pick 27;Nigeria;$1,977,000 
+Dwayne Bacon;SF;6-6;221;25;ORL;72;3;Florida State;2017 Rnd 2 Pick 10;United States;$1,678,854 
+Marvin Bagley III;PF;6-11;240;21;SAC;43;2;Duke;2018 Rnd 1 Pick 2;United States;$8,963,640 
+LaMelo Ball;G;6-7;185;19;CHA;51;0;Other;2020 Rnd 1 Pick 3;United States;$7,839,960 
+Lonzo Ball;PG;6-6;190;23;NOP;55;3;UCLA;2017 Rnd 1 Pick 2;United States;$11,003,782 
+Mohamed Bamba;C;7-0;250;22;ORL;46;2;Texas;2018 Rnd 1 Pick 6;United States;$5,969,040 
+Desmond Bane;SG;6-6;215;22;MEM;68;0;Texas Christian;2020 Rnd 1 Pick 30;United States;$1,936,440 
+Harrison Barnes;SF;6-8;225;28;SAC;58;8;North Carolina;2012 Rnd 1 Pick 7;United States;$22,215,909 
+R.J. Barrett;SG;6-7;202;20;NYK;72;1;Duke;2019 Rnd 1 Pick 3;Canada;$8,231,760 
+Will Barton;GF;6-5;181;30;DEN;56;8;Memphis;2012 Rnd 2 Pick 10;United States;$13,723,214 
+Keita Bates-Diop;SF;6-8;230;25;SAS;30;2;Ohio State;2018 Rnd 2 Pick 18;United States;$449,115
+Nicolas Batum;F;6-8;230;32;LAC;67;12;Other;2008 Rnd 1 Pick 25;France;$1,620,564 
+Aron Baynes;C;6-10;260;34;TOR;53;8;Washington State;2009 NBA Draft, Undrafted;New Zealand;$7,000,000 
+Kent Bazemore;GF;6-4;195;31;GSW;67;8;Old Dominion;2012 NBA Draft, Undrafted;United States;$1,620,564 
+Darius Bazley;PF;6-8;208;20;OKC;55;1;Other;2019 Rnd 1 Pick 23;United States;$2,399,160 
+Bradley Beal;SG;6-3;207;27;WAS;60;8;Florida;2012 Rnd 1 Pick 3;United States;$28,751,774 
+Malik Beasley;SG;6-4;196;24;MIN;37;4;Florida State;2016 Rnd 1 Pick 19;United States;$13,425,895 
+Jordan Bell;PF;6-8;216;26;GOS, WAS;6;3;Oregon;2017 Rnd 2 Pick 8;United States;$110,998 
+DeAndre' Bembry;GF;6-5;210;26;TOR;51;4;Saint Joseph's;2016 Rnd 1 Pick 21;United States;$1,737,145 
+Davis Bertans;SF;6-10;225;28;WAS;57;4;Other;2011 Rnd 2 Pick 12;Latvia;$15,000,000 
+Patrick Beverley;PG;6-1;180;32;LAC;37;8;Other;2009 Rnd 2 Pick 12;United States;$13,333,333 
+Saddiq Bey;F;6-8;215;21;DET;70;0;Villanova;2020 Rnd 1 Pick 19;United States;$2,689,920 
+Tyler Bey;PF;6-7;216;23;DAL;18;0;Colorado;2020 Rnd 2 Pick 6;United States;$449,115
+Khem Birch;PF;6-9;230;28;ORL, TOR;67;3;UNLV;2014 NBA Draft, Undrafted;Canada;$410,691 
+Goga Bitadze;C;6-11;245;21;IND;45;1;Other;2019 Rnd 1 Pick 18;Georgia;$2,957,520 
+Bismack Biyombo;PF;6-9;255;28;CHA;66;9;Other;2011 Rnd 1 Pick 7;Democratic Republic of the Congo;$3,500,000 
+Nemanja Bjelica;PF;6-10;235;32;MIA, SAC;37;5;Other;2010 Rnd 2 Pick 5;Serbia;$7,150,000 
+Eric Bledsoe;PG;6-1;214;31;NOP;71;10;Kentucky;2010 Rnd 1 Pick 18;United States;$16,875,000 
+Keljin Blevins;G;6-4;200;25;POR;17;0;Montana State;2019 NBA Draft, Undrafted;United States;$449,115
+Bogdan Bogdanovic;SG;6-6;220;28;ATL;44;3;Other;2014 Rnd 1 Pick 27;Serbia;$18,000,000 
+Bojan Bogdanovic;F;6-8;216;31;UTA;72;6;Other;2011 Rnd 2 Pick 1;Bosnia and Herzegovina;$17,850,000 
+Bol Bol;C;7-2;209;21;DEN;32;1;Oregon;2019 Rnd 2 Pick 14;United States;$2,058,240 
+Marques Bolden;C;6-10;249;22;CLE;6;1;Duke;2019 NBA Draft, Undrafted;United States;$449,115
+Jordan Bone;SG;6-3;185;23;ORL;14;1;Tennessee;2019 Rnd 2 Pick 27;United States;$135,350
+Isaac Bonga;SG;6-8;180;21;WAS;40;2;Other;2018 Rnd 2 Pick 9;Germany;$1,663,861 
+Devin Booker;SG;6-6;206;24;PHX;67;5;Kentucky;2015 Rnd 1 Pick 13;United States;$29,467,800 
+Chris Boucher;PF;6-10;200;28;TOR;60;3;Oregon;2017 NBA Draft, Undrafted;Saint Lucia;$6,500,000 
+Brian Bowen II;SF;6-7;199;22;IND;6;1;Other;2019 NBA Draft, Undrafted;United States;$375,321
+Avery Bradley;PG;6-3;180;30;HOU, MIA;27;10;Texas;2010 Rnd 1 Pick 19;United States;$5,635,000 
+Tony Bradley;C;6-11;248;23;OKC, PHL;42;3;North Carolina;2017 Rnd 1 Pick 28;United States;$3,542,060 
+Jarrell Brantley;SF;6-7;238;24;UTA;28;1;Charleston;2019 Rnd 2 Pick 20;United States;$510,586
+Ignas Brazdeikis;SF;6-6;221;22;NYK, ORL, PHL;13;1;Michigan;2019 Rnd 2 Pick 17;Lithuania;$99,020 
+Mikal Bridges;SG;6-7;210;24;PHX;72;2;Villanova;2018 Rnd 1 Pick 10;United States;$4,359,000 
+Miles Bridges;SF;6-7;225;22;CHA;66;2;Michigan State;2018 Rnd 1 Pick 12;United States;$3,934,320 
+Amida Brimah;C;6-11;230;27;IND;5;0;Connecticut;2017 NBA Draft, Undrafted;Ghana;$123,056
+OShae Brissett;PF;6-7;210;22;IND;21;1;Syracuse;2019 NBA Draft, Undrafted;Canada;$757,453 
+Malcolm Brogdon;SG;6-5;229;28;IND;56;4;Virginia;2016 Rnd 2 Pick 6;United States;$20,700,000 
+Armoni Brooks;SG;6-3;195;22;HOU;20;0;Houston;2019 NBA Draft, Undrafted;United States;$135,362
+Dillon Brooks;F;6-6;215;25;MEM;67;3;Oregon;2017 Rnd 2 Pick 15;Canada;$11,400,000 
+Charlie Brown;SG;6-6;199;24;OKC;9;1;Saint Joseph's;2019 NBA Draft, Undrafted;United States;$99,020 
+Jaylen Brown;SF;6-6;220;24;BOS;58;4;California;2016 Rnd 1 Pick 3;United States;$23,437,500 
+Bruce Brown, Jr.;SG;6-4;202;24;BRK;65;2;Miami (FL);2018 Rnd 2 Pick 12;United States;$1,663,861 
+Troy Brown, Jr.;SF;6-6;215;21;CHI, WAS;34;2;Oregon;2018 Rnd 1 Pick 15;United States;$3,372,840 
+Moses Brown;C;7-1;245;21;OKC;43;1;UCLA;2019 NBA Draft, Undrafted;United States;$1,250,000 
+Sterling Brown;G;6-5;219;26;HOU;51;3;Southern Methodist;2017 Rnd 2 Pick 16;United States;$1,620,564 
+Jalen Brunson;PG;6-1;190;24;DAL;68;2;Villanova;2018 Rnd 2 Pick 3;United States;$1,663,861 
+Elijah Bryant;SG;6-5;210;25;MIL;1;0;Brigham Young;2018 NBA Draft, Undrafted;United States;$24,611 
+Thomas Bryant;C;6-10;248;23;WAS;10;3;Indiana;2017 Rnd 2 Pick 12;United States;$8,333,333 
+Reggie Bullock;SG;6-7;205;29;NYK;65;7;North Carolina;2013 Rnd 1 Pick 25;United States;$4,200,000 
+Trey Burke;G;6-0;185;28;DAL;62;7;Michigan;2013 Rnd 1 Pick 9;United States;$3,000,000 
+Alec Burks;SG;6-6;214;29;NYK;49;9;Colorado;2011 Rnd 1 Pick 12;United States;$6,000,000 
+Jimmy Butler;GF;6-8;232;31;MIA;52;9;Marquette;2011 Rnd 1 Pick 30;United States;$34,379,100 
+Bruno Caboclo;PF;6-9;218;25;HOU;6;6;Other;2014 Rnd 1 Pick 20;Brazil;$2,028,594
+Devontae Cacok;PF;6-7;240;24;LAL;20;1;UNC Wilmington;2019 NBA Draft, Undrafted;United States;$449,115
+Kentavious Caldwell-Pope;SG;6-5;204;28;LAL;67;7;Georgia;2013 Rnd 1 Pick 8;United States;$12,073,020 
+Facundo Campazzo;PG;5-11;165;29;DEN;65;0;Other;2013 NBA Draft, Undrafted;Argentina;$3,200,000 
+Vlatko Cancar;SF;6-8;236;23;DEN;41;1;Other;2017 Rnd 2 Pick 19;Slovenia;$1,517,981 
+Devin Cannady;PG;6-2;183;24;ORL;8;0;Princeton;2019 NBA Draft, Undrafted;United States;$61,528 
+Clint Capela;PF;6-10;240;26;ATL;63;6;Other;2014 Rnd 1 Pick 25;Switzerland;$17,500,000 
+Vernon Carey, Jr.;PF;6-9;258;20;CHA;19;0;Duke;2020 Rnd 2 Pick 2;United States;$1,350,000 
+Jevon Carter;PG;6-1;195;25;PHX;60;2;West Virginia;2018 Rnd 2 Pick 2;United States;$3,925,000 
+Wendell Carter, Jr.;PF;6-10;270;21;CHI, ORL;54;2;Duke;2018 Rnd 1 Pick 7;United States;$5,448,840 
+Michael Carter-Williams;PG;6-6;195;29;ORL;31;7;Syracuse;2013 Rnd 1 Pick 11;United States;$3,300,000 
+Alex Caruso;G;6-4;186;27;LAL;58;3;Texas A&M;2016 NBA Draft, Undrafted;United States;$2,750,000 
+Willie Cauley-Stein;C;7-0;240;27;DAL;53;5;Kentucky;2015 Rnd 1 Pick 6;United States;$4,100,000 
+Chris Chiozza;PG;5-11;175;25;BRK;22;2;Florida;2018 NBA Draft, Undrafted;United States;$449,115
+Marquese Chriss;PF;6-9;240;23;GSW;2;4;Washington;2016 Rnd 1 Pick 8;United States;$1,824,003
+Gary Clark;SF;6-6;225;26;DEN, ORL, PHL;39;2;Cincinnati;2018 NBA Draft, Undrafted;United States;$2,000,000
+Brandon Clarke;PF;6-8;210;24;MEM;59;1;Gonzaga;2019 Rnd 1 Pick 21;Canada;$2,602,920 
+Jordan Clarkson;G;6-5;192;28;UTA;68;6;Missouri;2014 Rnd 2 Pick 16;United States;$11,500,000 
+Nicolas Claxton;C;6-11;226;21;BRK;32;1;Georgia;2019 Rnd 2 Pick 1;United States;$1,517,981 
+Amir Coffey;SF;6-7;210;23;LAC;44;1;Minnesota;2019 NBA Draft, Undrafted;United States;$578,842
+John Collins;PF;6-9;235;23;ATL;63;3;Wake Forest;2017 Rnd 1 Pick 19;United States;$4,137,302 
+Mike Conley;PG;6-1;175;33;UTA;51;13;Ohio State;2007 Rnd 1 Pick 4;United States;$34,502,132 
+Pat Connaughton;SF;6-4;209;28;MIL;69;5;Notre Dame;2015 Rnd 2 Pick 11;United States;$4,938,273 
+Quinn Cook;PG;6-1;180;27;CLE, LAL;23;4;Duke;2015 NBA Draft, Undrafted;United States;$110,998 
+Tyler Cook;C;6-8;255;23;BRK, DET;32;1;Iowa;2019 NBA Draft, Undrafted;United States;$396,081 
+DeMarcus Cousins;C;6-11;270;30;HOU, LAC;41;10;Kentucky;2010 Rnd 1 Pick 5;United States;$233,095 
+Robert Covington;F;6-7;209;30;POR;70;7;Tennessee State;2013 NBA Draft, Undrafted;United States;$12,138,345 
+Torrey Craig;GF;6-7;221;30;MIL, PHX;50;3;USC Upstate;2014 NBA Draft, Undrafted;United States;$1,620,564 
+Jae Crowder;SF;6-6;235;30;PHX;60;8;Marquette;2012 Rnd 2 Pick 4;United States;$9,258,000 
+Jarrett Culver;SG;6-6;195;22;MIN;34;1;Texas Tech;2019 Rnd 1 Pick 6;United States;$6,104,280 
+Seth Curry;G;6-1;190;30;PHI;57;7;Duke;2013 NBA Draft, Undrafted;United States;$7,834,449 
+Stephen Curry;G;6-3;193;32;GSW;63;11;Davidson;2009 Rnd 1 Pick 7;United States;$43,006,362 
+Nate Darling;SG;6-5;200;22;CHA;7;0;Delaware;2020 NBA Draft, Undrafted;Canada;$449,115
+Anthony Davis;PF;6-10;253;27;LAL;36;8;Kentucky;2012 Rnd 1 Pick 1;United States;$32,742,000 
+Ed Davis;PF;6-9;218;31;MIN;23;10;North Carolina;2010 Rnd 1 Pick 13;United States;$5,005,350 
+Terence Davis;SF;6-4;205;23;SAC, TOR;61;1;Ole Miss;2019 NBA Draft, Undrafted;United States;$1,517,981 
+DeMar DeRozan;GF;6-6;220;31;SAS;61;11;USC;2009 Rnd 1 Pick 9;United States;$27,739,975 
+Gabriel Deck;F;6-8;232;26;OKC;10;0;Other;2017 NBA Draft, Undrafted;Argentina;$3,870,370 
+Dewayne Dedmon;PF;7-0;245;31;MIA;16;7;USC;2013 NBA Draft, Undrafted;United States;$432,890 
+Matt Dellavedova;G;6-3;204;30;CLE;13;7;Saint Mary's;2013 NBA Draft, Undrafted;Australia;$1,620,564 
+Donte DiVincenzo;SG;6-4;203;24;MIL;66;2;Villanova;2018 Rnd 1 Pick 17;United States;$3,044,160 
+Mamadi Diakite;PF;6-9;218;24;MIL;14;0;Virginia;2020 NBA Draft, Undrafted;Guinea;$160,173 
+Hamidou Diallo;SG;6-5;202;22;DET, OKC;52;2;Kentucky;2018 Rnd 2 Pick 15;United States;$1,663,861 
+Gorgui Dieng;FC;6-10;250;31;MEM, SAN;38;7;Louisville;2013 Rnd 1 Pick 21;Senegal;$1,000,000 
+Spencer Dinwiddie;PG;6-5;215;27;BRK;3;6;Colorado;2014 Rnd 2 Pick 8;United States;$11,454,048 
+Luka Doncic;SF;6-7;230;22;DAL;66;2;Other;2018 Rnd 1 Pick 3;Slovenia;$8,049,360 
+Luguentz Dort;PG;6-4;215;21;OKC;52;1;Arizona State;2019 NBA Draft, Undrafted;Canada;$1,517,981 
+Damyean Dotson;SG;6-5;205;26;CLE;46;3;Houston;2017 Rnd 2 Pick 14;United States;$2,000,000 
+Devon Dotson;PG;6-1;185;21;CHI;11;0;Kansas;2020 NBA Draft, Undrafted;United States;$449,115
+Sekou Doumbouya;F;6-8;235;20;DET;56;1;Other;2019 Rnd 1 Pick 15;France;$3,449,400 
+P.J. Dozier;PG;6-6;205;24;DEN;50;3;South Carolina;2017 NBA Draft, Undrafted;United States;$1,762,796 
+Goran Dragic;G;6-3;190;34;MIA;50;12;Other;2008 Rnd 2 Pick 15;Slovenia;$18,000,000 
+Andre Drummond;C;6-10;280;27;CLE, LAL;46;8;Connecticut;2012 Rnd 1 Pick 9;United States;$554,988 
+Jared Dudley;PF;6-7;237;35;LAL;12;13;Boston College;2007 Rnd 1 Pick 22;United States;$1,620,564 
+Kris Dunn;SG;6-3;205;26;ATL;4;4;Providence;2016 Rnd 1 Pick 5;United States;$4,767,000 
+Kevin Durant;SF;6-10;225;32;BRK;35;13;Texas;2007 Rnd 1 Pick 2;United States;$40,108,950 
+Anthony Edwards;SF;6-5;229;19;MIN;72;0;Georgia;2020 Rnd 1 Pick 1;United States;$9,757,440 
+Carsen Edwards;PG;5-11;200;22;BOS;31;1;Purdue;2019 Rnd 2 Pick 3;United States;$1,517,981 
+C.J. Elleby;SF;6-6;200;20;POR;30;0;Washington State;2020 Rnd 2 Pick 16;United States;$898,310 
+Henry Ellenson;PF;6-10;240;24;TOR;2;4;Marquette;2016 Rnd 1 Pick 18;United States;$110,998 
+Wayne Ellington;SG;6-4;207;33;DET;46;11;North Carolina;2009 Rnd 1 Pick 28;United States;$1,620,564 
+Joel Embiid;C;7-0;280;26;PHI;51;6;Kansas;2014 Rnd 1 Pick 3;Cameroon;$29,542,010 
+James Ennis;GF;6-6;215;30;ORL;41;6;Long Beach State;2013 Rnd 2 Pick 20;United States;$3,300,000 
+Drew Eubanks;C;6-10;245;24;SAS;54;2;Oregon State;2018 NBA Draft, Undrafted;United States;$1,620,564 
+Dante Exum;PG;6-5;214;25;CLE;6;6;Other;2014 Rnd 1 Pick 5;Australia;$9,600,000 
+Tacko Fall;C;7-6;250;25;BOS;19;1;UCF;2019 NBA Draft, Undrafted;Senegal;$653,924
+Derrick Favors;FC;6-10;265;29;UTA;68;10;Georgia Tech;2010 Rnd 1 Pick 3;United States;$9,258,000 
+Cristiano Felicio;C;6-10;275;28;CHI;18;5;Other;2014 NBA Draft, Undrafted;Brazil;$7,529,020 
+Terrance Ferguson;SG;6-7;190;22;PHI;13;3;Other;2017 Rnd 1 Pick 21;United States;$2,512,282
+Bruno Fernando;C;6-9;240;22;ATL;33;1;Maryland;2019 Rnd 2 Pick 4;Angola;$1,517,981 
+Yogi Ferrell;G;6-0;180;27;CLE, LAC;10;4;Indiana;2016 NBA Draft, Undrafted;United States;$214,169 
+Dorian Finney-Smith;SF;6-7;220;27;DAL;60;4;Florida;2016 NBA Draft, Undrafted;United States;$4,000,000 
+Malik Fitts;SF;6-8;230;23;LAC;3;0;Saint Mary's;2020 NBA Draft, Undrafted;United States;$61,528 
+Malachi Flynn;PG;6-1;185;22;TOR;47;0;San Diego State;2020 Rnd 1 Pick 29;United States;$1,950,600 
+Bryn Forbes;G;6-2;205;27;MIL;70;4;Michigan State;2016 NBA Draft, Undrafted;United States;$2,337,145 
+Trent Forrest;SG;6-4;210;22;UTA;30;0;Florida State;2020 NBA Draft, Undrafted;United States;$470,690
+Evan Fournier;SG;6-7;205;28;BOS, ORL;42;8;Other;2012 Rnd 1 Pick 20;France;$17,450,000 
+De'Aaron Fox;PG;6-3;185;23;SAC;58;3;Kentucky;2017 Rnd 1 Pick 5;United States;$8,099,627 
+Robert Franks;C;6-7;225;24;ORL;7;1;Washington State;2019 NBA Draft, Undrafted;United States;$99,020 
+Tim Frazier;G;6-1;170;30;MEM;5;6;Penn State;2014 NBA Draft, Undrafted;United States;$255,294 
+Markelle Fultz;PG;6-4;209;22;ORL;8;3;Washington;2017 Rnd 1 Pick 1;United States;$12,288,697 
+Wenyen Gabriel;PF;6-9;205;23;NOP;21;2;Kentucky;2018 NBA Draft, Undrafted;South Sudan;$1,620,564 
+Daniel Gafford;C;6-11;234;22;CHI, WAS;54;1;Arkansas;2019 Rnd 2 Pick 8;United States;$1,517,981 
+Danilo Gallinari;SF;6-10;233;32;ATL;51;12;Other;2008 Rnd 1 Pick 6;Italy;$19,500,000 
+Langston Galloway;G;6-1;200;29;PHX;40;6;Saint Joseph's;2014 NBA Draft, Undrafted;United States;$1,620,564 
+Darius Garland;G;6-1;186;21;CLE;54;1;Vanderbilt;2019 Rnd 1 Pick 5;United States;$6,720,720 
+Marc Gasol;C;7-1;255;36;LAL;52;12;Other;2007 Rnd 2 Pick 18;Spain;$2,564,753 
+Rudy Gay;SF;6-8;240;34;SAS;63;14;Connecticut;2006 Rnd 1 Pick 8;United States;$14,500,000 
+Paul George;GF;6-8;220;30;LAC;54;10;Fresno State;2010 Rnd 1 Pick 10;United States;$35,450,412 
+Taj Gibson;F;6-9;232;35;NYK;45;11;USC;2009 Rnd 1 Pick 26;United States;$1,442,968 
+Harry Giles;PF;6-11;240;22;POR;38;3;Duke;2017 Rnd 1 Pick 20;United States;$1,620,564 
+Shai Gilgeous-Alexander;PG;6-6;181;22;OKC;35;2;Kentucky;2018 Rnd 1 Pick 11;Canada;$4,141,320 
+Anthony Gill;PF;6-8;230;28;WAS;26;0;Virginia;2016 NBA Draft, Undrafted;United States;$898,310 
+Freddie Gillespie;F;6-9;245;23;TOR;20;0;Baylor;2020 NBA Draft, Undrafted;United States;$116,903 
+Rudy Gobert;C;7-1;245;28;UTA;71;7;Other;2013 Rnd 1 Pick 27;France;$27,525,281 
+Brandon Goodwin;PG;6-0;180;25;ATL;47;2;Florida Gulf Coast;2018 NBA Draft, Undrafted;United States;$1,701,593 
+Aaron Gordon;F;6-8;235;25;DEN, ORL;50;6;Arizona;2014 Rnd 1 Pick 4;United States;$18,136,364 
+Eric Gordon;G;6-3;215;32;HOU;27;12;Indiana;2008 Rnd 1 Pick 7;United States;$16,869,276 
+Devonte' Graham;PG;6-1;185;26;CHA;55;2;Kansas;2018 Rnd 2 Pick 4;United States;$1,663,861 
+Jerami Grant;F;6-8;210;26;DET;54;6;Syracuse;2014 Rnd 2 Pick 9;United States;$19,050,000 
+Danny Green;SF;6-6;220;33;PHI;69;11;North Carolina;2009 Rnd 2 Pick 16;United States;$15,365,854 
+Draymond Green;F;6-6;235;30;GSW;63;8;Michigan State;2012 Rnd 2 Pick 5;United States;$22,246,956 
+JaMychal Green;PF;6-8;227;30;DEN;58;6;Alabama;2012 NBA Draft, Undrafted;United States;$7,199,760 
+Javonte Green;G;6-4;205;27;BOS, CHI;41;1;Radford;2015 NBA Draft, Undrafted;United States;$1,517,981 
+Jeff Green;F;6-8;235;34;BRK;68;12;Georgetown;2007 Rnd 1 Pick 5;United States;$1,620,564 
+Josh Green;SG;6-6;210;20;DAL;39;0;Arizona;2020 Rnd 1 Pick 18;United States;$2,816,760 
+Blake Griffin;PF;6-9;246;31;BRK, DET;46;11;Oklahoma;2009 Rnd 1 Pick 1;United States;$776,983 
+Kyle Guy;SG;6-1;167;23;SAC;31;1;Virginia;2019 Rnd 2 Pick 25;United States;$537,888
+Rui Hachimura;F;6-8;230;23;WAS;57;1;Gonzaga;2019 Rnd 1 Pick 9;Japan;$4,692,840 
+Ashton Hagans;PG;6-3;198;21;MIN;2;0;Kentucky;2020 NBA Draft, Undrafted;United States;$166,111
+Tyrese Haliburton;PG;6-5;172;20;SAC;58;0;Iowa State;2020 Rnd 1 Pick 12;United States;$3,831,840 
+Donta Hall;PF;6-9;229;23;ORL;13;1;Alabama;2019 NBA Draft, Undrafted;United States;$79,216 
+Josh Hall;F;6-8;200;20;OKC;21;0;Moravian Prep (North Carolina);2020 NBA Draft, Undrafted;United States;$449,115
+R.J. Hampton;G;6-6;176;20;DEN, ORL;51;0;Other;2020 Rnd 1 Pick 24;United States;$2,193,480 
+Tim Hardaway Jr.;SG;6-5;205;28;DAL;70;7;Michigan;2013 Rnd 1 Pick 24;United States;$18,975,000 
+James Harden;SG;6-5;220;31;BRK, HOU;44;11;Arizona State;2009 Rnd 1 Pick 3;United States;$41,254,920 
+Maurice Harkless;F;6-9;220;27;MIA, SAC;37;8;St. John's;2012 Rnd 1 Pick 15;United States;$3,623,000 
+Jared Harper;PG;6-0;175;23;NYK;8;1;Auburn;2019 NBA Draft, Undrafted;United States;$99,020 
+Montrezl Harrell;F;6-7;240;27;LAL;69;5;Louisville;2015 Rnd 2 Pick 2;United States;$9,258,000 
+Gary Harris;SG;6-4;205;26;DEN, ORL;39;6;Michigan State;2014 Rnd 1 Pick 19;United States;$19,160,714 
+Jalen Harris;SG;6-5;195;22;TOR;13;0;Nevada;2020 Rnd 2 Pick 29;United States;$449,115
+Joe Harris;SG;6-6;220;29;BRK;69;6;Virginia;2014 Rnd 2 Pick 3;United States;$16,071,429 
+Tobias Harris;F;6-7;230;28;PHI;62;9;Tennessee;2011 Rnd 1 Pick 19;United States;$34,358,850 
+Shaquille Harrison;G;6-3;195;27;DEN, UTH;34;3;Tulsa;2016 NBA Draft, Undrafted;United States;$770,433
+Josh Hart;SG;6-5;215;25;NOP;47;3;Villanova;2017 Rnd 1 Pick 30;United States;$3,491,159 
+Isaiah Hartenstein;PF;7-0;250;22;CLE, DEN;46;2;Other;2017 Rnd 2 Pick 13;United States;$1,620,564 
+Udonis Haslem;FC;6-8;235;40;MIA;1;17;Florida;2002 NBA Draft, Undrafted;United States;$1,620,564 
+Jaxson Hayes;PF;6-11;220;20;NOP;60;1;Texas;2019 Rnd 1 Pick 8;United States;$5,105,160 
+Killian Hayes;G;6-5;216;19;DET;26;0;Other;2020 Rnd 1 Pick 7;France;$5,307,120 
+Gordon Hayward;GF;6-7;230;30;CHA;44;10;Butler;2010 Rnd 1 Pick 9;United States;$28,500,000 
+Juancho Hernangomez;F;6-9;214;25;MIN;52;4;Other;2016 Rnd 1 Pick 15;Spain;$6,493,000 
+Willy Hernangomez;C;6-11;250;26;NOP;47;4;Other;2015 Rnd 2 Pick 5;Spain;$1,620,564 
+Tyler Herro;SG;6-6;195;21;MIA;54;1;Kentucky;2019 Rnd 1 Pick 13;United States;$3,822,240 
+Buddy Hield;G;6-4;220;28;SAC;71;4;Oklahoma;2016 Rnd 1 Pick 6;Bahamas;$24,971,851 
+George Hill;G;6-3;188;34;OKC, PHL;30;12;IUPUI;2008 Rnd 1 Pick 26;United States;$9,590,602 
+Solomon Hill;SF;6-6;226;29;ATL;71;7;Arizona;2013 Rnd 1 Pick 23;United States;$1,620,564 
+Nate Hinton;SF;6-5;210;21;DAL;21;0;Houston;2020 NBA Draft, Undrafted;United States;$449,115
+Jaylen Hoard;PF;6-8;216;21;OKC;19;1;Wake Forest;2019 NBA Draft, Undrafted;France;$129,209
+Aaron Holiday;PG;6-0;185;24;IND;66;2;UCLA;2018 Rnd 1 Pick 23;United States;$2,345,640 
+Jrue Holiday;G;6-4;205;30;MIL;59;11;UCLA;2009 Rnd 1 Pick 17;United States;$27,026,111 
+Justin Holiday;SF;6-6;181;31;IND;72;7;Washington;2011 NBA Draft, Undrafted;United States;$5,720,400 
+Rondae Hollis-Jefferson;SF;6-6;217;26;POR;11;5;Arizona;2015 Rnd 1 Pick 23;United States;$210,895 
+Richaun Holmes;F;6-10;240;27;SAC;61;5;Bowling Green;2015 Rnd 2 Pick 7;United States;$5,005,350 
+Rodney Hood;F;6-8;205;28;POR, TOR;55;6;Duke;2014 Rnd 1 Pick 23;United States;$10,047,450 
+Al Horford;FC;6-9;240;34;OKC;28;13;Florida;2007 Rnd 1 Pick 3;Dominican Republic;$27,500,000 
+Talen Horton-Tucker;SF;6-4;233;20;LAL;65;1;Iowa State;2019 Rnd 2 Pick 16;United States;$1,517,981 
+Danuel House;F;6-6;215;27;HOU;36;4;Texas A&M;2016 NBA Draft, Undrafted;United States;$3,717,000 
+Dwight Howard;C;6-11;265;35;PHI;69;16;Southwest Atlanta Christian Academy (Georgia);2004 Rnd 1 Pick 1;United States;$1,620,564 
+Markus Howard;SG;5-11;180;21;DEN;37;0;Marquette;2020 NBA Draft, Undrafted;United States;$535,294
+Kevin Huerter;SF;6-7;190;22;ATL;69;2;Maryland;2018 Rnd 1 Pick 19;United States;$2,761,920 
+Elijah Hughes;SF;6-6;215;22;UTA;18;0;Syracuse;2020 Rnd 2 Pick 9;United States;$898,310 
+De'Andre Hunter;PF;6-7;225;23;ATL;23;1;Virginia;2019 Rnd 1 Pick 4;United States;$7,422,000 
+Chandler Hutchison;SG;6-7;210;24;CHI, WAS;25;2;Boise State;2018 Rnd 1 Pick 22;United States;$2,443,440 
+Serge Ibaka;C;6-10;235;31;LAC;41;11;Other;2008 Rnd 1 Pick 24;Republic of the Congo;$9,258,000 
+Andre Iguodala;SF;6-6;215;37;MIA;63;16;Arizona;2004 Rnd 1 Pick 9;United States;$15,000,000 
+Ersan Ilyasova;F;6-10;235;33;UTA;17;13;Other;2005 Rnd 2 Pick 6;Turkey;$754,783 
+Joe Ingles;F;6-8;226;33;UTA;67;6;Other;2009 NBA Draft, Undrafted;Australia;$10,863,637 
+Brandon Ingram;SF;6-7;190;23;NOP;61;4;Duke;2016 Rnd 1 Pick 2;United States;$27,285,000 
+Kyrie Irving;G;6-2;195;28;BRK;54;9;Duke;2011 Rnd 1 Pick 1;United States;$33,722,850 
+Wesley Iwundu;F;6-7;195;26;DAL, NOP;41;3;Kansas State;2017 Rnd 2 Pick 3;United States;$1,678,854 
+Frank Jackson;SG;6-3;205;22;DET;40;3;Duke;2017 Rnd 2 Pick 1;United States;$250,000
+Josh Jackson;SF;6-8;207;24;DET;62;3;Kansas;2017 Rnd 1 Pick 4;United States;$4,767,000 
+Jaren Jackson, Jr.;PF;6-11;242;21;MEM;11;2;Michigan State;2018 Rnd 1 Pick 4;United States;$7,257,360 
+Justin Jackson;F;6-8;210;25;MIL, OKC;34;3;North Carolina;2017 Rnd 1 Pick 15;United States;$5,029,650
+Reggie Jackson;G;6-2;208;30;LAC;67;9;Boston College;2011 Rnd 1 Pick 24;Italy;$1,620,564 
+Justin James;SG;6-7;190;24;SAC;36;1;Wyoming;2019 Rnd 2 Pick 10;United States;$1,517,981 
+LeBron James;F;6-8;250;36;LAL;45;17;St. Vincent St. Mary High School (Ohio);2003 Rnd 1 Pick 1;United States;$39,219,566 
+Mike James;PG;6-1;190;30;BRK;13;1;Lamar;2012 NBA Draft, Undrafted;United States;$39,608 
+DaQuan Jeffries;SF;6-5;225;23;HOU, SAC;31;1;Tulsa;2019 NBA Draft, Undrafted;United States;$1,445,697 
+Ty Jerome;PG;6-5;195;23;OKC;33;1;Virginia;2019 Rnd 1 Pick 24;United States;$2,303,040 
+Isaiah Joe;SG;6-3;175;21;PHI;41;0;Arkansas;2020 Rnd 2 Pick 19;United States;$898,310 
+Alize Johnson;SF;6-7;212;24;BRK;18;2;Missouri State;2018 Rnd 2 Pick 20;United States;$399,591 
+Cameron Johnson;G;6-9;210;24;PHX;60;1;North Carolina;2019 Rnd 1 Pick 11;United States;$4,235,160 
+James Johnson;F;6-7;235;34;DAL, NOP;51;11;Wake Forest;2009 Rnd 1 Pick 16;United States;$16,047,100 
+Keldon Johnson;SF;6-6;210;21;SAS;69;1;Kentucky;2019 Rnd 1 Pick 29;United States;$2,048,040 
+Stanley Johnson;G;6-6;242;24;TOR;61;5;Arizona;2015 Rnd 1 Pick 8;United States;$3,804,150 
+Tyler Johnson;G;6-4;190;28;BRK;39;6;Fresno State;2014 NBA Draft, Undrafted;United States;$1,620,564 
+Nikola Jokic;C;7-0;284;26;DEN;72;5;Other;2014 Rnd 2 Pick 11;Serbia;$29,542,010 
+Damian Jones;PF;7-0;245;25;LAL, PHX, SAC;39;4;Vanderbilt;2016 Rnd 1 Pick 30;United States;$237,965 
+Derrick Jones;SF;6-6;210;24;POR;58;4;UNLV;2016 NBA Draft, Undrafted;United States;$9,258,000 
+Mason Jones;G;6-4;200;22;HOU, PHL;32;0;Arkansas;2020 NBA Draft, Undrafted;United States;$61,528 
+Tre Jones;PG;6-3;185;21;SAS;37;0;Duke;2020 Rnd 2 Pick 11;United States;$898,310 
+Tyus Jones;PG;6-1;196;24;MEM;70;5;Duke;2015 Rnd 1 Pick 24;United States;$8,817,143 
+DeAndre Jordan;C;6-11;265;32;BRK;57;12;Texas A&M;2008 Rnd 2 Pick 5;United States;$10,375,678 
+Cory Joseph;PG;6-3;200;29;DET, SAC;63;9;Texas;2011 Rnd 1 Pick 29;Canada;$12,600,000 
+Mfiondu Kabengele;SF;6-9;250;23;CLE, LAC;39;1;Florida State;2019 Rnd 1 Pick 27;Canada;$158,433 
+Frank Kaminsky;F;7-0;242;27;PHX;47;5;Wisconsin;2015 Rnd 1 Pick 9;United States;$1,620,564 
+Enes Kanter;F;6-10;250;28;POR;72;9;Kentucky;2011 Rnd 1 Pick 3;Switzerland;$5,005,350 
+Luke Kennard;SG;6-5;206;24;LAC;63;3;Duke;2017 Rnd 1 Pick 12;United States;$5,273,826 
+Louis King;SF;6-7;205;21;SAC;6;1;Oregon;2019 NBA Draft, Undrafted;United States;$49,222
+Maxi Kleber;PF;6-10;240;29;DAL;50;3;Other;2014 NBA Draft, Undrafted;Germany;$8,475,000 
+Nathan Knight;PF;6-8;244;23;ATL;33;0;William & Mary;2020 NBA Draft, Undrafted;United States;$522,989
+Kevin Knox;SF;6-9;215;21;NYK;42;2;Kentucky;2018 Rnd 1 Pick 9;United States;$4,588,680 
+John Konchar;G;6-5;210;24;MEM;43;1;Fort Wayne;2019 NBA Draft, Undrafted;United States;$2,100,000 
+Furkan Korkmaz;SG;6-7;210;23;PHI;55;3;Other;2016 Rnd 1 Pick 26;Turkey;$1,762,796 
+Luke Kornet;F;7-1;250;25;BOS, CHI;31;3;Vanderbilt;2017 NBA Draft, Undrafted;United States;$2,250,000 
+Rodions Kurucs;SF;6-9;228;23;BRK, HOU, MIL;21;2;Other;2018 Rnd 2 Pick 10;Latvia;$768,148
+Kyle Kuzma;F;6-10;221;25;LAL;68;3;Utah;2017 Rnd 1 Pick 27;United States;$3,562,178 
+Zach LaVine;SG;6-5;202;25;CHI;58;6;UCLA;2014 Rnd 1 Pick 13;United States;$19,500,000 
+Anthony Lamb;PF;6-6;225;23;HOU;24;0;Vermont;2020 NBA Draft, Undrafted;United States;$215,330
+Jeremy Lamb;SG;6-5;185;28;IND;36;8;Connecticut;2012 Rnd 1 Pick 12;United States;$10,500,000 
+Romeo Langford;SG;6-4;215;21;BOS;18;1;Indiana;2019 Rnd 1 Pick 14;United States;$3,631,200 
+Jake Layman;SF;6-8;212;26;MIN;45;4;Maryland;2016 Rnd 2 Pick 17;United States;$3,761,085 
+Caris LeVert;G;6-6;205;26;BRK, IND;47;4;Michigan;2016 Rnd 1 Pick 20;United States;$16,203,704 
+T.J. Leaf;PF;6-10;225;23;POR;7;3;UCLA;2017 Rnd 1 Pick 18;United States;$4,326,825
+Jalen Lecque;SG;6-4;185;20;IND;4;1;Other;2019 NBA Draft, Undrafted;United States;$1,517,981
+Damion Lee;G;6-5;203;28;GSW;57;3;Louisville;2016 NBA Draft, Undrafted;United States;$1,762,796 
+Saben Lee;PG;6-2;183;21;DET;48;0;Vanderbilt;2020 Rnd 2 Pick 8;United States;$516,836
+Alex Len;C;7-0;250;27;TOR, WAS;64;7;Maryland;2013 Rnd 1 Pick 5;Ukraine;$1,265,372 
+Kawhi Leonard;F;6-7;225;29;LAC;52;9;San Diego State;2011 Rnd 1 Pick 15;United States;$34,379,100 
+Meyers Leonard;C;7-1;255;29;MIA;3;8;Illinois;2012 Rnd 1 Pick 11;United States;$9,400,000
+Kira Lewis, Jr.;PG;6-1;170;19;NOP;54;0;Alabama;2020 Rnd 1 Pick 13;United States;$3,640,200 
+Damian Lillard;G;6-2;195;30;POR;67;8;Weber State;2012 Rnd 1 Pick 6;United States;$31,626,953 
+Nassir Little;SF;6-5;220;21;POR;48;1;North Carolina;2019 Rnd 1 Pick 25;United States;$2,210,640 
+Kevon Looney;PF;6-9;250;25;GSW;61;5;UCLA;2015 Rnd 1 Pick 30;United States;$4,821,429 
+Brook Lopez;C;7-0;270;32;MIL;70;12;Stanford;2008 Rnd 1 Pick 10;United States;$12,697,675 
+Robin Lopez;FC;7-0;281;32;WAS;71;12;Stanford;2008 Rnd 1 Pick 15;United States;$7,300,000 
+Didi Louzada;SF;6-5;210;21;NOP;3;0;Other;2019 Rnd 2 Pick 5;Brazil;$123,056 
+Kevin Love;FC;6-8;247;32;CLE;25;12;UCLA;2008 Rnd 1 Pick 5;United States;$31,258,256 
+Kyle Lowry;PG;6-1;196;34;TOR;46;14;Villanova;2006 Rnd 1 Pick 24;United States;$30,500,000 
+Timothe Luwawu-Cabarrot;F;6-7;210;25;BRK;58;4;Other;2016 Rnd 1 Pick 24;France;$1,824,003 
+Trey Lyles;SF;6-9;234;25;SAS;23;5;Kentucky;2015 Rnd 1 Pick 12;Canada;$5,500,000 
+Will Magnay;C;6-10;234;22;NOP;1;0;Other;2018 NBA Draft, Undrafted;Australia;$341,481
+Thon Maker;C;7-0;221;24;CLE;8;4;Athlete Institute Prep (Ontario);2016 Rnd 1 Pick 10;South Sudan;$1,737,145
+Theo Maledon;PG;6-5;180;19;OKC;65;0;Other;2020 Rnd 2 Pick 4;France;$2,000,000 
+Karim Mane;PG;6-4;205;20;ORL;10;0;Other;2020 NBA Draft, Undrafted;Canada;$344,557
+Terance Mann;SG;6-5;215;24;LAC;67;1;Florida State;2019 Rnd 2 Pick 18;United States;$1,517,981 
+Nico Mannion;PG;6-3;190;19;GSW;30;0;Arizona;2020 Rnd 2 Pick 18;Italy;$449,115
+Boban Marjanovic;C;7-4;290;32;DAL;33;5;Other;2010 NBA Draft, Undrafted;Serbia;$3,500,000 
+Lauri Markkanen;SF;7-0;238;23;CHI;51;3;Arizona;2017 Rnd 1 Pick 7;Finland;$6,731,508 
+Naji Marshall;SF;6-7;220;23;NOP;32;0;Xavier;2020 NBA Draft, Undrafted;United States;$120,000 
+Caleb Martin;F;6-7;205;25;CHA;53;1;Nevada;2019 NBA Draft, Undrafted;United States;$1,517,981 
+Cody Martin;F;6-6;200;25;CHA;52;1;Nevada;2019 Rnd 2 Pick 6;United States;$1,517,981 
+Jeremiah Martin;PG;6-3;185;24;CLE;9;1;Memphis;2019 NBA Draft, Undrafted;United States;$58,452
+K.J. Martin;F;6-7;215;20;HOU;45;0;IMG Academy (Florida);2020 Rnd 2 Pick 22;United States;$898,310 
+Kelan Martin;SF;6-5;230;25;IND;35;1;Butler;2018 NBA Draft, Undrafted;United States;$1,445,697 
+Frank Mason;G;5-11;190;26;ORL;4;3;Kansas;2017 Rnd 2 Pick 4;United States;$1,678,854
+Garrison Mathews;SG;6-5;215;24;WAS;64;1;Lipscomb;2019 NBA Draft, Undrafted;United States;$688,052
+Dakota Mathias;SG;6-4;200;25;PHI;8;0;Purdue;2018 NBA Draft, Undrafted;United States;$86,132
+Wesley Matthews;G;6-5;220;34;LAL;58;11;Marquette;2009 NBA Draft, Undrafted;United States;$3,623,000 
+Tyrese Maxey;PG;6-2;195;20;PHI;61;0;Kentucky;2020 Rnd 1 Pick 21;United States;$2,478,840 
+Skylar Mays;PG;6-4;205;23;ATL;33;0;LSU;2020 Rnd 2 Pick 20;United States;$532,218
+Patrick McCaw;G;6-7;185;25;TOR;5;4;UNLV;2016 Rnd 2 Pick 8;United States;$4,000,000
+C.J. McCollum;G;6-3;190;29;POR;47;7;Lehigh;2013 Rnd 1 Pick 10;United States;$29,354,152 
+T.J. McConnell;G;6-2;190;28;IND;69;5;Arizona;2015 NBA Draft, Undrafted;United States;$3,500,000 
+Jaden McDaniels;F;6-9;185;20;MIN;63;0;Washington;2020 Rnd 1 Pick 28;United States;$1,964,760 
+Jalen McDaniels;PF;6-9;212;23;CHA;47;1;San Diego State;2019 Rnd 2 Pick 22;United States;$1,517,981 
+Doug McDermott;F;6-8;225;29;IND;66;6;Creighton;2014 Rnd 1 Pick 11;United States;$7,333,333 
+Sean McDermott;SG;6-6;195;24;MEM;18;0;Butler;2020 NBA Draft, Undrafted;United States;$449,115
+JaVale McGee;C;7-0;270;33;CLE, DEN;46;12;Nevada;2008 Rnd 1 Pick 18;United States;$4,200,000 
+Rodney McGruder;SG;6-4;205;29;DET;16;4;Kansas State;2013 NBA Draft, Undrafted;United States;$5,192,307 
+Alfonzo McKinnie;F;6-8;215;28;LAL;39;3;Green Bay;2015 NBA Draft, Undrafted;United States;$1,762,796 
+Jordan McLaughlin;G;6-1;185;24;MIN;51;1;USC;2018 NBA Draft, Undrafted;United States;$503,760
+Ben McLemore;SG;6-3;195;28;HOU, LAL;53;7;Kansas;2013 Rnd 1 Pick 7;United States;$455,090 
+Nicolo Melli;PF;6-9;235;30;DAL, NOP;45;1;Other;2013 NBA Draft, Undrafted;Italy;$3,897,436 
+De'Anthony Melton;SG;6-2;200;22;MEM;52;2;USC;2018 Rnd 2 Pick 16;United States;$9,571,712 
+Sam Merrill;G;6-4;197;24;MIL;30;0;Utah State;2020 Rnd 2 Pick 30;United States;$898,310 
+Chimezie Metu;PF;6-10;225;23;SAC;36;2;USC;2018 Rnd 2 Pick 19;United States;$700,000 
+Khris Middleton;SF;6-8;222;29;MIL;68;8;Texas A&M;2012 Rnd 2 Pick 9;United States;$33,051,724 
+Darius Miller;GF;6-8;225;30;OKC;18;6;Kentucky;2012 Rnd 2 Pick 16;United States;$7,000,000
+Patty Mills;G;6-0;180;32;SAS;68;11;Saint Mary's;2009 Rnd 2 Pick 25;Australia;$13,535,714 
+Paul Millsap;FC;6-7;250;36;DEN;56;14;Louisiana Tech;2006 Rnd 2 Pick 17;United States;$10,000,000 
+Shake Milton;SG;6-5;215;24;PHI;63;2;Southern Methodist;2018 Rnd 2 Pick 24;United States;$1,701,593 
+Donovan Mitchell;SG;6-3;215;24;UTA;53;3;Louisville;2017 Rnd 1 Pick 13;United States;$5,195,501 
+Adam Mokoka;SG;6-5;215;22;CHI;14;1;Other;2019 NBA Draft, Undrafted;France;$449,115
+Malik Monk;SG;6-3;200;23;CHA;42;3;Kentucky;2017 Rnd 1 Pick 11;United States;$5,345,687 
+E'Twaun Moore;SG;6-4;191;32;PHX;27;9;Purdue;2011 Rnd 2 Pick 25;United States;$1,620,564 
+Ja Morant;G;6-3;175;21;MEM;63;1;Murray State;2019 Rnd 1 Pick 2;United States;$9,166,800 
+Juwan Morgan;PF;6-7;232;23;UTA;29;1;Indiana;2019 NBA Draft, Undrafted;United States;$1,517,981 
+Marcus Morris;F;6-8;218;31;LAC;57;9;Kansas;2011 Rnd 1 Pick 14;United States;$14,883,721 
+Markieff Morris;PF;6-10;245;31;LAL;61;9;Kansas;2011 Rnd 1 Pick 13;United States;$1,620,564 
+Monte Morris;G;6-2;183;25;DEN;47;3;Iowa State;2017 Rnd 2 Pick 21;United States;$1,723,707 
+Mychal Mulder;GF;6-4;193;26;GSW;60;1;Kentucky;2017 NBA Draft, Undrafted;Canada;$1,517,981 
+Dejounte Murray;SG;6-5;180;24;SAS;67;4;Washington;2016 Rnd 1 Pick 29;United States;$14,286,000 
+Jamal Murray;SG;6-4;215;24;DEN;48;4;Kentucky;2016 Rnd 1 Pick 7;Canada;$27,285,000 
+Mike Muscala;FC;6-11;240;29;OKC;35;7;Bucknell;2013 Rnd 2 Pick 14;United States;$2,283,034 
+Svi Mykhailiuk;SF;6-8;205;23;DET, OKC;66;2;Kansas;2018 Rnd 2 Pick 17;Ukraine;$1,663,861 
+Abdel Nader;SF;6-6;225;27;PHX;24;3;Iowa State;2016 Rnd 2 Pick 28;United States;$1,752,950 
+Larry Nance, Jr.;SF;6-7;245;28;CLE;35;5;Wyoming;2015 Rnd 1 Pick 27;United States;$11,709,091 
+Aaron Nesmith;F;6-6;213;21;BOS;46;0;Vanderbilt;2020 Rnd 1 Pick 14;United States;$3,458,400 
+Raulzinho Neto;PG;6-1;180;28;WAS;64;5;Other;2013 Rnd 2 Pick 17;Brazil;$1,620,564 
+Georges Niang;F;6-7;235;27;UTA;72;4;Iowa State;2016 Rnd 2 Pick 20;United States;$1,783,557 
+Zeke Nnaji;PF;6-11;240;20;DEN;42;0;Arizona;2020 Rnd 1 Pick 22;United States;$2,379,840 
+Nerlens Noel;FC;6-11;220;26;NYK;64;7;Kentucky;2013 Rnd 1 Pick 6;United States;$5,000,000 
+Jaylen Nowell;SG;6-4;197;21;MIN;42;1;Washington;2019 Rnd 2 Pick 13;United States;$1,517,981 
+Frank Ntilikina;PG;6-6;200;22;NYK;33;3;Other;2017 Rnd 1 Pick 8;Belgium;$6,176,578 
+Kendrick Nunn;SG;6-3;195;25;MIA;56;2;Oakland;2018 NBA Draft, Undrafted;United States;$1,663,861 
+James Nunnally;F;6-7;220;30;NOP;9;2;UC Santa Barbara;2012 NBA Draft, Undrafted;United States;$107,674
+Jusuf Nurkic;FC;7-0;290;26;POR;37;6;Other;2014 Rnd 1 Pick 16;Bosnia and Herzegovina;$12,888,889 
+David Nwaba;G;6-5;219;28;HOU;30;4;Cal Poly;2016 NBA Draft, Undrafted;United States;$1,824,003 
+Jordan Nwora;F;6-8;226;22;MIL;30;0;Louisville;2020 Rnd 2 Pick 15;United States;$898,310 
+Royce O'Neale;SF;6-6;226;27;UTA;71;3;Baylor;2015 NBA Draft, Undrafted;United States;$8,500,000 
+Semi Ojeleye;SF;6-6;240;26;BOS;56;3;Southern Methodist;2017 Rnd 2 Pick 7;United States;$1,752,950 
+Jahlil Okafor;C;6-11;275;25;DET;27;5;Duke;2015 Rnd 1 Pick 3;United States;$1,882,867 
+Chuma Okeke;PF;6-8;230;22;ORL;45;0;Auburn;2019 Rnd 1 Pick 16;United States;$3,121,080 
+Josh Okogie;SG;6-4;220;22;MIN;59;2;Georgia Tech;2018 Rnd 1 Pick 20;Nigeria;$2,651,040 
+Onyeka Okongwu;PF;6-9;245;20;ATL;50;0;USC;2020 Rnd 1 Pick 6;United States;$5,813,640 
+Isaac Okoro;SG;6-5;225;20;CLE;67;0;Auburn;2020 Rnd 1 Pick 5;United States;$6,400,920 
+KZ Okpala;SG;6-8;215;21;MIA;37;1;Stanford;2019 Rnd 2 Pick 2;United States;$1,517,981 
+Victor Oladipo;G;6-4;210;28;HOU, IND, MIA;33;7;Indiana;2013 Rnd 1 Pick 2;United States;$21,000,000 
+Cameron Oliver;C;6-8;225;24;HOU;4;0;Nevada;2017 NBA Draft, Undrafted;United States;$43,070 
+Kelly Olynyk;C;6-11;240;29;HOU, MIA;70;7;Gonzaga;2013 Rnd 1 Pick 13;Canada;$12,819,650 
+Miye Oni;SF;6-5;206;23;UTA;54;1;Yale;2019 Rnd 2 Pick 28;United States;$1,517,981 
+Cedi Osman;GF;6-7;230;25;CLE;59;3;Other;2015 Rnd 2 Pick 1;North Macedonia;$8,840,580 
+Daniel Oturu;FC;6-10;240;21;LAC;30;0;Minnesota;2020 Rnd 2 Pick 3;United States;$898,310 
+Kelly Oubre, Jr.;SF;6-6;205;25;GSW;55;5;Kansas;2015 Rnd 1 Pick 15;United States;$14,375,000 
+Jabari Parker;F;6-8;245;25;BOS, SAC;13;6;Duke;2014 Rnd 1 Pick 2;United States;$430,729 
+Eric Paschall;F;6-6;264;24;GSW;40;1;Villanova;2019 Rnd 2 Pick 11;United States;$1,517,981 
+Anzejs Pasecniks;C;7-1;229;25;WAS;1;1;Other;2017 Rnd 1 Pick 25;Latvia;$374,297
+Patrick Patterson;F;6-8;235;31;LAC;38;10;Kentucky;2010 Rnd 1 Pick 14;United States;$3,077,704 
+Justin Patton;C;7-0;241;23;HOU;13;3;Creighton;2017 Rnd 1 Pick 16;United States;$267,623
+Chris Paul;PG;6-0;175;35;PHX;70;15;Wake Forest;2005 Rnd 1 Pick 4;United States;$41,358,814 
+Cameron Payne;G;6-3;190;26;PHX;60;5;Murray State;2015 Rnd 1 Pick 14;United States;$1,977,011 
+Gary Payton II;G;6-3;195;28;GSW;10;4;Oregon State;2016 NBA Draft, Undrafted;United States;$110,998 
+Elfrid Payton;G;6-4;185;27;NYK;63;6;Louisiana;2014 Rnd 1 Pick 10;United States;$4,767,000 
+Norvel Pelle;FC;6-10;216;28;BRK, NYK, SAC;13;1;Delaware 87ers;2014 NBA Draft, Undrafted;Lebanon;$500,000 
+Reggie Perry;F;6-8;250;20;BRK;26;0;Mississippi State;2020 Rnd 2 Pick 27;United States;$489,148
+Theo Pinson;SG;6-5;212;25;NYK;17;2;North Carolina;2018 NBA Draft, Undrafted;United States;$802,182
+Mason Plumlee;PF;7-0;250;30;DET;56;7;Duke;2013 Rnd 1 Pick 22;United States;$8,000,000 
+Jakob Poeltl;C;7-0;240;25;SAS;69;4;Utah;2016 Rnd 1 Pick 9;Austria;$8,101,852 
+Vincent Poirier;C;7-0;235;27;PHI;10;1;Other;2015 NBA Draft, Undrafted;France;$1,686,339
+Aleksej Pokusevski;C;7-0;190;19;OKC;45;0;Other;2020 Rnd 1 Pick 17;Serbia;$2,964,840 
+Jordan Poole;SG;6-4;195;21;GSW;51;1;Michigan;2019 Rnd 1 Pick 28;United States;$2,063,280 
+Jontay Porter;PF;6-10;236;21;MEM;11;1;Missouri;2019 NBA Draft, Undrafted;United States;$1,900,000 
+Kevin Porter, Jr.;SF;6-4;203;20;HOU;26;1;USC;2019 Rnd 1 Pick 30;United States;$1,717,981 
+Michael Porter, Jr.;PF;6-10;218;22;DEN;61;2;Missouri;2018 Rnd 1 Pick 14;United States;$3,550,800 
+Otto Porter;SF;6-8;228;27;CHI, ORL;28;7;Georgetown;2013 Rnd 1 Pick 3;United States;$28,489,238 
+Bobby Portis;PF;6-11;250;26;MIL;66;5;Arkansas;2015 Rnd 1 Pick 22;United States;$3,623,000 
+Kristaps Porzingis;FC;7-3;240;25;DAL;43;5;Other;2015 Rnd 1 Pick 4;Latvia;$29,467,800 
+Dwight Powell;PF;6-10;240;29;DAL;58;6;Stanford;2014 Rnd 2 Pick 15;Canada;$11,080,125 
+Norman Powell;SG;6-3;215;27;POR, TOR;69;5;UCLA;2015 Rnd 2 Pick 16;United States;$10,865,952 
+Taurean Prince;F;6-7;218;26;BRK, CLE;41;4;Baylor;2016 Rnd 1 Pick 12;United States;$12,250,000 
+Payton Pritchard;PG;6-2;190;23;BOS;66;0;Oregon;2020 Rnd 1 Pick 26;United States;$2,035,800 
+Immanuel Quickley;PG;6-3;188;21;NYK;64;0;Kentucky;2020 Rnd 1 Pick 25;United States;$2,105,520 
+Jahmi'us Ramsey;PG;6-3;195;19;SAC;13;0;Texas Tech;2020 Rnd 2 Pick 13;United States;$1,000,000 
+Chasson Randle;PG;6-3;185;28;ORL;41;3;Stanford;2015 NBA Draft, Undrafted;United States;$279,927
+Julius Randle;PF;6-9;250;26;NYK;71;6;Kentucky;2014 Rnd 1 Pick 7;United States;$20,790,000 
+Cam Reddish;G;6-8;218;21;ATL;26;1;Duke;2019 Rnd 1 Pick 10;United States;$4,458,000 
+J.J. Redick;G;6-4;200;36;DAL, NOP;44;14;Duke;2006 Rnd 1 Pick 11;United States;$13,013,700 
+Paul Reed, Jr.;F;6-9;220;21;PHI;26;0;DePaul;2020 Rnd 2 Pick 28;United States;$609,128 
+Naz Reid;C;6-9;250;21;MIN;70;1;LSU;2019 NBA Draft, Undrafted;United States;$1,517,981 
+Cam Reynolds;F;6-8;225;26;HOU, SAN;5;2;Tulane;2018 NBA Draft, Undrafted;United States;$110,998 
+Nick Richards;C;7-0;250;23;CHA;18;0;Kentucky;2020 Rnd 2 Pick 12;Jamaica;$1,000,000 
+Josh Richardson;G;6-5;200;27;DAL;59;5;Tennessee;2015 Rnd 2 Pick 10;United States;$10,865,952 
+Grant Riller;SG;6-1;195;24;CHA;7;0;Charleston;2020 Rnd 2 Pick 26;United States;$449,115
+Austin Rivers;SG;6-4;200;28;DEN, NYK;36;8;Duke;2012 Rnd 1 Pick 10;United States;$188,696 
+Andre Roberson;SG;6-7;210;29;BRK;5;7;Colorado;2013 Rnd 1 Pick 26;United States;$110,998 
+Duncan Robinson;F;6-8;210;26;MIA;72;2;Michigan;2018 NBA Draft, Undrafted;United States;$1,663,861 
+Glenn Robinson;SF;6-6;222;27;SAC;23;6;Michigan;2014 Rnd 2 Pick 10;United States;$1,165,322
+Jerome Robinson;SG;6-4;190;24;WAS;17;2;Boston College;2018 Rnd 1 Pick 13;United States;$3,737,520
+Justin Robinson;PG;6-1;195;23;OKC;9;1;Virginia Tech;2019 NBA Draft, Undrafted;United States;$99,020 
+Mitchell Robinson;C;7-1;240;22;NYK;31;2;Other;2018 Rnd 2 Pick 6;United States;$1,663,861 
+Isaiah Roby;SF;6-8;230;23;OKC;61;1;Nebraska;2019 Rnd 2 Pick 15;United States;$1,517,981 
+Rajon Rondo;PG;6-1;180;35;ATL, LAC;45;14;Kentucky;2006 Rnd 1 Pick 21;United States;$8,250,000 
+Derrick Rose;PG;6-3;200;32;DET, NYK;50;12;Memphis;2008 Rnd 1 Pick 1;United States;$7,682,927 
+Terrence Ross;SF;6-7;206;30;ORL;46;8;Washington;2012 Rnd 1 Pick 8;United States;$13,500,000 
+Terry Rozier;G;6-1;195;26;CHA;69;5;Louisville;2015 Rnd 1 Pick 16;United States;$18,900,000 
+Ricky Rubio;G;6-3;190;30;MIN;68;9;Other;2009 Rnd 1 Pick 5;Spain;$17,000,000 
+D'Angelo Russell;SG;6-4;193;25;MIN;42;5;Ohio State;2015 Rnd 1 Pick 2;United States;$28,649,250 
+Domantas Sabonis;PF;6-11;240;24;IND;62;4;Gonzaga;2016 Rnd 1 Pick 11;United States;$19,800,000 
+Luka Samanic;PF;6-11;235;21;SAS;33;1;Other;2019 Rnd 1 Pick 19;Croatia;$2,824,320 
+JaKarr Sampson;F;6-9;215;27;IND;29;5;St. John's;2014 NBA Draft, Undrafted;United States;$1,620,564 
+Dario Saric;SF;6-10;250;26;PHX;50;4;Other;2014 Rnd 1 Pick 12;Croatia;$9,250,000 
+Tomas Satoransky;PG;6-7;210;29;CHI;58;4;Other;2012 Rnd 2 Pick 2;Czech Republic;$10,000,000 
+Dennis Schroder;PG;6-3;172;27;LAL;61;7;Other;2013 Rnd 1 Pick 17;Germany;$16,000,000 
+Mike Scott;PF;6-8;237;32;PHI;51;8;Virginia;2012 Rnd 2 Pick 13;United States;$5,005,350 
+Jayden Scrubb;SG;6-5;220;20;LAC;4;0;John A. Logan;2020 Rnd 2 Pick 25;United States;$449,115
+Collin Sexton;PG;6-1;192;22;CLE;60;2;Alabama;2018 Rnd 1 Pick 8;United States;$4,991,880 
+Landry Shamet;PG;6-4;190;23;BRK;61;2;Wichita State;2018 Rnd 1 Pick 26;United States;$2,090,040 
+Iman Shumpert;G;6-5;220;30;BRK;2;9;Georgia Tech;2011 Rnd 1 Pick 17;United States;$110,998 
+Pascal Siakam;F;6-9;230;26;TOR;56;4;New Mexico State;2016 Rnd 1 Pick 27;Cameroon;$30,559,200 
+Chris Silva;PF;6-8;234;24;MIA, SAC;15;1;South Carolina;2019 NBA Draft, Undrafted;Gabon;$1,517,981
+Ben Simmons;PF;6-10;240;24;PHI;58;4;LSU;2016 Rnd 1 Pick 1;Australia;$30,559,200 
+Anfernee Simons;SG;6-3;181;21;POR;64;2;Edgewater High School (Florida);2018 Rnd 1 Pick 24;United States;$2,252,040 
+Deividas Sirvydis;GF;6-8;190;20;DET;20;0;Other;2019 Rnd 2 Pick 7;Lithuania;$898,310 
+Alen Smailagic;PF;6-10;215;20;GSW;15;1;Santa Cruz Warriors;2019 Rnd 2 Pick 9;Serbia;$1,517,981 
+Marcus Smart;PG;6-3;220;26;BOS;48;6;Oklahoma State;2014 Rnd 1 Pick 6;United States;$13,446,428 
+Dennis Smith;PG;6-2;205;23;DET, NYK;23;3;NC State;2017 Rnd 1 Pick 9;United States;$5,686,677 
+Ish Smith;PG;6-0;180;32;WAS;44;10;Wake Forest;2010 NBA Draft, Undrafted;United States;$6,000,000 
+Jalen Smith;C;6-10;215;20;PHX;27;0;Maryland;2020 Rnd 1 Pick 10;United States;$4,245,720 
+Tony Snell;G;6-6;213;29;ATL;47;7;New Mexico;2013 Rnd 1 Pick 20;United States;$12,178,571 
+Raymond Spalding;PF;6-10;215;23;HOU;2;2;Louisville;2018 Rnd 2 Pick 26;United States;$289,156
+Cassius Stanley;G;6-6;193;21;IND;24;0;Duke;2020 Rnd 2 Pick 24;United States;$470,690
+Lamar Stevens;SF;6-8;225;23;CLE;40;0;Penn State;2020 NBA Draft, Undrafted;United States;$652,366 
+Isaiah Stewart II;C;6-9;250;19;DET;68;0;Washington;2020 Rnd 1 Pick 16;United States;$3,121,080 
+Max Strus;G;6-5;220;24;MIA;39;1;DePaul;2019 NBA Draft, Undrafted;United States;$647,098
+Edmond Sumner;G;6-6;196;25;IND;53;3;Xavier;2017 Rnd 2 Pick 22;United States;$2,160,000 
+Jae'sean Tate;F;6-4;230;25;HOU;70;0;Ohio State;2018 NBA Draft, Undrafted;United States;$1,445,697 
+Jayson Tatum;SF;6-8;210;22;BOS;64;3;Duke;2017 Rnd 1 Pick 3;United States;$9,897,120 
+Jeff Teague;PG;6-3;195;32;BOS, MIL;55;11;Wake Forest;2009 Rnd 1 Pick 19;United States;$510,589 
+Garrett Temple;G;6-5;195;34;CHI;56;10;LSU;2009 NBA Draft, Undrafted;United States;$4,767,000 
+Tyrell Terry;PG;6-2;170;20;DAL;11;0;Stanford;2020 Rnd 2 Pick 1;United States;$1,289,846 
+Daniel Theis;C;6-8;245;28;BOS, CHI;65;3;Other;2013 NBA Draft, Undrafted;Germany;$5,000,000 
+Brodric Thomas;G;6-5;185;24;CLE, HOU;32;0;Truman State;2020 NBA Draft, Undrafted;United States;$412,202
+Isaiah Thomas;PG;5-9;185;32;NOP;3;9;Washington;2011 Rnd 2 Pick 30;United States;$110,998 
+Khyri Thomas;SG;6-3;210;24;HOU;5;2;Creighton;2018 Rnd 2 Pick 8;United States;$250,000 
+Matt Thomas;G;6-4;190;26;TOR, UTH;45;1;Iowa State;2017 NBA Draft, Undrafted;United States;$1,517,981 
+Tristan Thompson;F;6-9;254;29;BOS;54;9;Texas;2011 Rnd 1 Pick 4;Canada;$9,258,000 
+Sindarius Thornwell;SG;6-4;215;26;NOP, ORL;21;2;South Carolina;2017 Rnd 2 Pick 18;United States;$110,998 
+Matisse Thybulle;SF;6-5;205;23;PHI;65;1;Washington;2019 Rnd 1 Pick 20;United States;$2,711,280 
+Killian Tillie;C;6-10;220;22;MEM;18;0;Gonzaga;2020 NBA Draft, Undrafted;France;$449,115
+Xavier Tillman, Sr.;PF;6-8;245;22;MEM;59;0;Michigan State;2020 Rnd 2 Pick 5;United States;$1,300,000 
+Anthony Tolliver;PF;6-8;245;35;PHI;11;13;Creighton;2007 NBA Draft, Undrafted;United States;$263,502 
+Obi Toppin;F;6-9;193;22;NYK;62;0;Dayton;2020 Rnd 1 Pick 8;United States;$4,862,040 
+Juan Toscano-Anderson;F;6-6;213;27;GSW;53;1;Marquette;2015 NBA Draft, Undrafted;United States;$358,295 
+Axel Toupane;SG;6-7;197;28;MIL;8;2;Other;2014 NBA Draft, Undrafted;France;$196,872
+Karl-Anthony Towns;C;7-0;250;25;MIN;50;5;Kentucky;2015 Rnd 1 Pick 1;United States;$29,467,800 
+Gary Trent, Jr.;SG;6-6;205;22;POR, TOR;58;2;Duke;2018 Rnd 2 Pick 7;United States;$1,663,861 
+P.J. Tucker;SF;6-6;245;35;HOU, MIL;52;9;Texas;2006 Rnd 2 Pick 5;United States;$7,969,537 
+Rayjon Tucker;SF;6-3;209;23;PHI;14;1;Little Rock;2019 NBA Draft, Undrafted;United States;$690,000
+Myles Turner;FC;6-11;250;24;IND;47;5;Texas;2015 Rnd 1 Pick 11;United States;$18,000,000 
+Jonas Valanciunas;C;6-11;265;28;MEM;62;8;Other;2011 Rnd 1 Pick 5;Lithuania;$15,000,000 
+Denzel Valentine;F;6-5;218;27;CHI;62;4;Michigan State;2016 Rnd 1 Pick 14;United States;$4,642,800 
+Fred VanVleet;G;6-0;195;27;TOR;52;4;Wichita State;2016 NBA Draft, Undrafted;United States;$21,250,000 
+Jarred Vanderbilt;PF;6-8;214;21;MIN;64;2;Kentucky;2018 Rnd 2 Pick 11;United States;$1,663,861 
+Anderson Varejao;C;6-10;273;38;CLE;5;13;Other;2004 Rnd 2 Pick 1;Brazil;$110,998 
+Devin Vassell;SG;6-7;195;20;SAS;62;0;Florida State;2020 Rnd 1 Pick 11;United States;$4,033,440 
+Gabe Vincent;G;6-3;195;24;MIA;50;1;UC Santa Barbara;2018 NBA Draft, Undrafted;United States;$660,750
+Noah Vonleh;FC;6-10;257;25;BRK;4;6;Indiana;2014 Rnd 1 Pick 9;United States;$430,464
+Nikola Vucevic;PF;7-0;260;30;CHI, ORL;70;9;USC;2011 Rnd 1 Pick 16;Switzerland;$26,000,000 
+Dean Wade;PF;6-9;219;24;CLE;63;1;Kansas State;2019 NBA Draft, Undrafted;United States;$1,517,981 
+Moe Wagner;PF;6-11;245;23;BOS, ORL, WAS;45;2;Michigan;2018 Rnd 1 Pick 25;Germany;$221,995 
+Kemba Walker;G;6-0;184;30;BOS;43;9;Connecticut;2011 Rnd 1 Pick 9;United States;$34,379,100 
+Lonnie Walker;SG;6-5;205;22;SAS;60;2;Miami (FL);2018 Rnd 1 Pick 18;United States;$2,892,000 
+John Wall;PG;6-4;210;30;HOU;40;10;Kentucky;2010 Rnd 1 Pick 1;United States;$41,254,920 
+Brad Wanamaker;SG;6-3;210;31;CHA, GOS;61;2;Pittsburgh;2011 NBA Draft, Undrafted;United States;$2,250,000 
+T.J. Warren;F;6-8;215;27;IND;4;6;NC State;2014 Rnd 1 Pick 14;United States;$12,000,000 
+P.J. Washington;PF;6-7;230;22;CHA;64;1;Kentucky;2019 Rnd 1 Pick 12;United States;$4,023,600 
+Yuta Watanabe;F;6-9;205;26;TOR;50;2;George Washington;2018 NBA Draft, Undrafted;Japan;$321,893 
+Tremont Waters;PG;5-10;175;23;BOS;26;1;LSU;2019 Rnd 2 Pick 21;United States;$712,278
+Paul Watson;GF;6-6;210;26;TOR;27;1;Fresno State;2017 NBA Draft, Undrafted;United States;$1,445,697 
+Quinndary Weatherspoon;SG;6-3;205;24;SAS;20;1;Mississippi State;2019 Rnd 2 Pick 19;United States;$449,115
+Russell Westbrook;G;6-3;200;32;WAS;65;12;UCLA;2008 Rnd 1 Pick 4;United States;$41,358,814 
+Coby White;PG;6-5;191;21;CHI;69;1;North Carolina;2019 Rnd 1 Pick 7;United States;$5,572,680 
+Derrick White;G;6-4;195;26;SAS;36;3;Colorado;2017 Rnd 1 Pick 29;United States;$3,516,284 
+Hassan Whiteside;C;7-0;265;31;SAC;36;8;Marshall;2010 Rnd 2 Pick 3;United States;$1,620,564 
+Greg Whittington;PF;6-8;212;28;DEN;4;0;Georgetown;2015 NBA Draft, Undrafted;United States;$332,252
+Andrew Wiggins;F;6-7;205;26;GSW;71;6;Kansas;2014 Rnd 1 Pick 1;Canada;$29,542,010 
+Grant Williams;SF;6-6;236;22;BOS;63;1;Tennessee;2019 Rnd 1 Pick 22;United States;$2,498,760 
+Kenrich Williams;SF;6-7;210;26;OKC;66;2;Texas Christian;2018 NBA Draft, Undrafted;United States;$2,000,000 
+Lou Williams;G;6-1;175;34;ATL, LAC;66;15;South Gwinnett High School (Georgia);2005 Rnd 2 Pick 15;United States;$8,000,000 
+Patrick Williams;G;6-7;227;19;CHI;71;0;Florida State;2020 Rnd 1 Pick 4;United States;$7,068,360 
+Robert Williams;PF;6-8;240;23;BOS;52;2;Texas A&M;2018 Rnd 1 Pick 27;United States;$2,029,920 
+Zion Williamson;PF;6-6;284;20;NOP;61;1;Duke;2019 Rnd 1 Pick 1;United States;$10,245,480 
+D.J. Wilson;F;6-10;231;25;HOU, MIL;35;3;Michigan;2017 Rnd 1 Pick 17;United States;$4,548,280 
+Dylan Windler;SF;6-6;199;24;CLE;31;1;Belmont;2019 Rnd 1 Pick 26;United States;$2,137,440 
+Justise Winslow;SF;6-6;222;24;MEM;26;5;Duke;2015 Rnd 1 Pick 10;United States;$13,000,000 
+Cassius Winston;PG;6-1;185;23;WAS;22;0;Michigan State;2020 Rnd 2 Pick 23;United States;$449,115
+James Wiseman;C;7-0;244;19;GSW;39;0;Memphis;2020 Rnd 1 Pick 2;United States;$8,730,240 
+Christian Wood;PF;6-10;223;25;HOU;41;4;UNLV;2015 NBA Draft, Undrafted;United States;$13,015,874 
+Robert Woodard II;G;6-7;235;21;SAC;13;0;Mississippi State;2020 Rnd 2 Pick 10;United States;$1,500,000 
+Delon Wright;G;6-5;185;28;DET, SAC;63;5;Utah;2015 Rnd 1 Pick 20;United States;$9,000,000 
+Thaddeus Young;F;6-8;235;32;CHI;68;13;Georgia Tech;2007 Rnd 1 Pick 12;United States;$13,545,000 
+Trae Young;PG;6-1;180;22;ATL;63;2;Oklahoma;2018 Rnd 1 Pick 5;United States;$6,571,800 
+Cody Zeller;F;6-11;240;28;CHA;48;7;Indiana;2013 Rnd 1 Pick 4;United States;$15,415,730 
+Ivica Zubac;C;7-0;240;23;LAC;72;4;Other;2016 Rnd 2 Pick 2;Bosnia and Herzegovina;$7,000,000 
